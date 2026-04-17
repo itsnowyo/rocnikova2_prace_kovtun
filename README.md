@@ -1,4 +1,14 @@
 # rocnikova2_prace_kovtun
+zjistovala jsem co to je za hra a vymyslela scenar
+
+
+
+
+
+
+
+
+
 Základní zápletka
 
 Hraješ za studenta IT (lehce ironický typ, něco jako Pankrác), který zjistí, že:
