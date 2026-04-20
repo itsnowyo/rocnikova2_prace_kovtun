@@ -1,7 +1,6 @@
 # rocnikova2_prace_kovtun
 zjistovala jsem co to je za hra a vymyslela scenar
-
-
+20.04 - zacinam delat prvni scenu, pridala jsem obrazek a nejake buttony
 
 
 
