@@ -19,8 +19,8 @@ líného spolužáka
 přísného učitele
 a možná i bug v systému školy
 
-🧍‍♂️ Hlavní postavy
-Ty (hráč) – sarkastický student
+ Hlavní postavy
+Hráč – sarkastický student
 Kámoš „Expert“ – ví všechno… ale většinou špatně
 Učitel programování – podezřele tajemný
 Školník – ví víc, než by měl
