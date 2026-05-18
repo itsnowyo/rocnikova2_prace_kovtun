@@ -26,7 +26,7 @@ Učitel programování – podezřele tajemný
 Školník – ví víc, než by měl
 AI chatbot 
 
- Lokace (ideální pro WPF scény)
+ Lokace 
  Pokoj (start)
  Škola – chodba
  Počítačová učebna
@@ -34,11 +34,7 @@ AI chatbot
  Kabinet učitele
  Serverovna (finální lokace)
  Herní mechaniky
- 
-klikání na objekty (Button / Image v WPF)
-inventář (ListBox / panel)
-dialogy (TextBlock + volby)
-kombinování předmětů
+
 
  Hlavní úkoly (questy)
 1. Probuzení
